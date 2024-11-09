@@ -1,4 +1,7 @@
 # Paytm-Sales-Analysis
+
+![logo](https://github.com/rachit7217/Paytm-Sales-Analysis/blob/main/Dashboard%2010%20Paytm.png)
+
 ### Project Summary: Paytm Sales Analysis Dashboard
 
 The Paytm Sales Analysis Dashboard project aims to provide insightful visualizations and analytics of sales data using Excel, SQL, and Power BI. This project will help stakeholders understand sales trends, customer behavior, and performance metrics, enabling data-driven decision-making.
